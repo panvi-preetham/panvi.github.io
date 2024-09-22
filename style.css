@@ -1,0 +1,53 @@
+
+    body{
+        background-color: aquamarine;
+    }
+    h2{
+        background-color: rgb(127, 161, 226);
+        margin-left: 55px;
+        padding: 50px;
+ }
+    P{
+        
+        color: black;
+        font-style: italic;
+        font-weight: bold;
+        text-decoration:line-through;
+        
+
+    }
+    p:hover{
+        color: brown;
+    }
+    #second{
+        color: rgb(156, 188, 67);
+        text-align:justify;
+    }
+    
+    img{
+        width: 500px;
+        
+
+    }
+    .sp{
+        width: 70;
+        display: block;
+        margin-left: 50px;
+        margin-right: 50px;
+
+
+    }
+    a{
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        padding: 10px;
+        
+    }
+   #result{
+    font-size: 2rem ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   }
+
+    
